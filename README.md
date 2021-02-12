@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello everyone! 👋
+
+I'm a data analyst specialized in areas such as sustainability 🌱, BI, and automation. Currently, developing data engineering and automatization projects. I'm always learning, and I love to test myself in other fields.
+
+At the moment, I'm a volunteer at organizations such as Omdena, Humanitarian OpenStreetMap, and EFC; where I collaborate with an international community of people making a positive impact using technology ⚡
+
+Thanks you to drop by my Github!
 
 <!--
 **fserrey/fserrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
