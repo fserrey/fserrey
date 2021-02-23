@@ -2,7 +2,7 @@
 
 I'm a data analyst/enginner specialized in areas such as BI, and automation. Currently, developing data engineering and automatization projects. I'm always learning, and I love to test myself, currently sharping my GIS skills 🌍
 
-At the moment, I'm a volunteer at organizations such as Omdena, Humanitarian OpenStreetMap, and EFC; where I collaborate with an international community of people making a positive impact using technology ⚡
+Currently, I've been a volunteer at Omdena, Humanitarian OpenStreetMap, and EFC; where I collaborate with an international community of people making a positive impact using technology ⚡
 
 Thanks you to drop by my Github!
 
