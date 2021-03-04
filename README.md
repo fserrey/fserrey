@@ -4,6 +4,8 @@ I'm a data analyst/enginner specialized in areas such as BI, and automation. Cur
 
 Aditionally, I love to be involved in projects among the tech community. I have collaborated with Omdena, Humanitarian OpenStreetMap, and EFC; where I contribute in an international environemnt of people making a positive impact using technology ⚡
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fserrey)](https://github.com/fserrey/github-readme-stats)
+
 Thanks you to drop by my Github!
 
 <!--
