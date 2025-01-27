@@ -1,6 +1,6 @@
 ### Hello everyone! 👋
 
-I'm a data analyst/enginner specialized in areas such as BI and automation. Currently, developing data engineering and automatization projects. I'm always learning, and I love to test myself, currently sharping my GIS skills 🌍
+I'm a data enginner specialized in areas such as BI and automation. Currently, developing data engineering and automatization projects. I'm always learning, and I love to test myself, currently sharping my GIS skills 🌍
 
 Aditionally, I love to be involved in projects among the tech community. I have collaborated with Omdena, Humanitarian OpenStreetMap, and EFC; where I contribute in an international environment of people making a positive impact using technology ⚡
 
