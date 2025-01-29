@@ -1,12 +1,12 @@
-### Hi there! 👋
+### Hi there! 
 
 I'm a data engineer specialized in cloud and GIS 🌍. Currently, focused on building data platforms and automation solutions using cloud services in the main 3 clouds (Azure, AWS and GCP). 
 
-I’m also active in the tech community, where I’ve collaborated with Omdena, Humanitarian OpenStreetMap, and EFC, contributing alongside amazing people who use technology to make a positive impact ⚡.
+I’m also active in the tech community, where I’ve collaborated with Omdena, Humanitarian OpenStreetMap, and EFC, contributing alongside amazing people who use technology to make a positive impact
 
 A few things about me:
 - 💻 Tech Stack: Python, SQL, Terraform, GDAL, QGIS
-- 🚀 Interests: Data Spaces, Cloud platforms, GIS
+- 🌱 Interests: Data Spaces, Cloud platforms, GIS
 - 🤝 Collaboration: Always open to teaming up on interesting projects
 
 Thanks for stopping by! If you’d like to connect or chat about potential collaboration opportunities, feel free to reach out.
