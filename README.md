@@ -1,14 +1,15 @@
-### Hello everyone! 👋
+### Hi there! 👋
 
-I'm a data enginner specialized in areas such as BI and automation. Currently, developing data engineering and automatization projects. I'm always learning, and I love to test myself, currently sharping my GIS skills 🌍
+I'm a data engineer specialized in cloud and GIS 🌍. Currently, focused on building data platforms and automation solutions using cloud services in the main 3 clouds (Azure, AWS and GCP). 
 
-Aditionally, I love to be involved in projects among the tech community. I have collaborated with Omdena, Humanitarian OpenStreetMap, and EFC; where I contribute in an international environment of people making a positive impact using technology ⚡
+I’m also active in the tech community, where I’ve collaborated with Omdena, Humanitarian OpenStreetMap, and EFC, contributing alongside amazing people who use technology to make a positive impact ⚡.
 
-Thank you to drop by my Github!
+A few things about me:
+💻 Tech Stack: Python, SQL, Terraform, GDAL, QGIS
+🚀 Interests: Data Spaces, Cloud platforms, GIS
+🤝 Collaboration: Always open to teaming up on interesting projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fserrey)](https://github.com/fserrey/github-readme-stats)
-
-
+Thanks for stopping by! If you’d like to connect or chat about potential collaboration opportunities, feel free to reach out.
 <!--
 **fserrey/fserrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
